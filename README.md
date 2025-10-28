@@ -1,4 +1,4 @@
-# 🧠 MorphBERT
+# MorphBERT
 
 ## Project Overview
 
@@ -10,7 +10,7 @@ The notebook `MorphBERT_V2.ipynb` demonstrates:
 
 ---
 
-## 🚀 How to Run on Google Colab
+## How to Run on Google Colab
 
 1. **Open the notebook in Google Colab**  
    Click to open [`MorphBERT_V2.ipynb`](./MorphBERT_V2.ipynb) in [Google Colab](https://colab.research.google.com/).
@@ -36,7 +36,7 @@ The notebook `MorphBERT_V2.ipynb` demonstrates:
 
 ---
 
-## 📂 Output Files
+## Output Files
 
 After running all cells, the following outputs are generated:
 
